@@ -20,3 +20,21 @@ Screenshots
 
 Link to Google drive
 https://drive.google.com/drive/folders/1Hb_BBvHcEP-ECG24G8HiNXMGzSi-whF-?usp=sharing
+
+Evaluation Criteria (Total: 100 Points)
+1. Quality of Work (30 Points)
+Accuracy and Attention to Detail (10 Points): Accuracy of the work delivered and attention to detail in completing tasks.
+Creativity and Innovation (10 Points): Originality of ideas and innovative approaches to solving problems.
+Consistency and Reliability (10 Points): Consistency in performance and reliability in meeting deadlines.
+2. Knowledge and Skills (20 Points)
+Technical Proficiency (10 Points): Level of expertise and skill in specific technical areas required for the task.
+Application of Knowledge (10 Points): Effectiveness in applying knowledge to achieve practical outcomes.
+3. Communication (20 Points)
+Clarity and Articulation (10 Points): Clearness and precision in verbal and written communication.
+Responsiveness and Interaction (10 Points): Promptness in responding to communications and ability to interact effectively with others.
+4. Initiative and Problem-Solving (15 Points)
+Proactivity (7 Points): Degree to which the individual takes initiative and acts independently.
+Problem-Solving Ability (8 Points): Effectiveness in identifying problems, developing solutions, and implementing those solutions successfully.
+5. Teamwork and Collaboration (15 Points)
+Contribution to Team Goals (7 Points): Impact of the individual’s efforts on team objectives and goals.
+Cooperation and Support (8 Points): Ability to work cooperatively in a team and support other team members.
